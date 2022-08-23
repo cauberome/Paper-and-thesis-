@@ -9,3 +9,6 @@ Paper in IEEE ICCE 2022 and Engineering Thesis
 
 [Electric instruments project.pdf](https://docs.google.com/viewer?url=https://github.com/cauberome/Paper-andthesis-/files/9409085/Electric.instruments.project.pdf): Calculate and select electric instruments
 
+
+[Baby's Crying Analysis and Automatic Alarm.pdf](https://docs.google.com/viewer?url=https://github.com/cauberome/Paper-andthesis-/files/9409155/Baby.s.Crying.Analysis.and.Automatic.Alarm.pdf)
+
